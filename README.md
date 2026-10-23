@@ -242,6 +242,15 @@ WorldBox 可以让我们观察文明兴衰，但随机生成的国家名称未�
 
 **故乡已经远去，而那些来自旧时代的记忆与知识，仍有机会以另一种方式延续下去。**
 
+#### 故乡馈赠 · 图标展示
+
+<table align="center">
+<tr>
+<td align="center"><a href="WorldBox-LOTM-Expansion-README-images/docs/images/gallery/%E6%95%85%E4%B9%A1%E9%A6%88%E8%B5%A0%E5%B0%8F.png"><img src="WorldBox-LOTM-Expansion-README-images/docs/images/gallery/%E6%95%85%E4%B9%A1%E9%A6%88%E8%B5%A0%E5%B0%8F.png" alt="故乡馈赠谋划按钮图标" width="100"></a><br><sub>谋划按钮图标</sub></td>
+<td align="center"><a href="WorldBox-LOTM-Expansion-README-images/docs/images/gallery/%E6%95%85%E4%B9%A1%E9%A6%88%E8%B5%A0%E5%A4%A7.png"><img src="WorldBox-LOTM-Expansion-README-images/docs/images/gallery/%E6%95%85%E4%B9%A1%E9%A6%88%E8%B5%A0%E5%A4%A7.png" alt="故乡馈赠谋划执行图" width="240"></a><br><sub>谋划执行图</sub></td>
+</tr>
+</table>
+
 ### 4. 灵性纪元——神秘复苏的时代
 
 世界的历史由一个又一个纪元组成。
