@@ -7,8 +7,6 @@
 ## 📥 下载与安装包
 
 **[▶ 前往 GitHub Releases 下载模组](https://github.com/CryssyVyn/WorldBox-LOTM-Expansion/releases)**　｜　[项目主页](https://github.com/CryssyVyn/WorldBox-LOTM-Expansion)　｜　[原模组资源](https://github.com/Worldbox-OWL/mod-resources)
-
-> **发布说明：** 本 README 按 **v1.0.0 正式版功能**更新。当前 Releases 页面可核实的最新公开安装包仍是旧版 `v0.1.0-dev-loadfix6`，**不包含本次完整国名功能**；正式版 ZIP 上传后，请从上方 Releases 页面下载标注为 **v1.0.0** 的安装包，不要把旧测试包当作正式版。
 >
 > **必需前置：** WorldBox 0.51.x、NML 1.2.0.1，以及伊度氢制作的《诡秘之主—宿命之环》4.1。本项目是**独立附属扩展**，需要与原模组同时安装，不覆盖原模组源码或磁盘上的 DLL。
 
