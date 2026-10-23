@@ -1,14 +1,76 @@
 # WorldBox-LOTM-Expansion
 
-**《诡秘之主—宿命之环》拓展模组 · v1.0.0 正式版说明**
+**《诡秘之主—宿命之环》拓展模组 · v1.0.0 正式版**
 
 *在灰雾笼罩的历史深处，仍有尚未揭晓的秘密。*
 
 ## 📥 下载与安装包
 
-**[▶ 前往 GitHub Releases 下载模组](https://github.com/CryssyVyn/WorldBox-LOTM-Expansion/releases)**　｜　[项目主页](https://github.com/CryssyVyn/WorldBox-LOTM-Expansion)　｜　[原模组资源](https://github.com/Worldbox-OWL/mod-resources)
->
+**[⬇ 下载 v1.0.0 正式版安装包](https://github.com/CryssyVyn/WorldBox-LOTM-Expansion/releases/download/v1.0.0/WorldBox-LOTM-Expansion-1.0.0.zip)**
+
+[查看全部版本](https://github.com/CryssyVyn/WorldBox-LOTM-Expansion/releases)　｜　[下载 v1.0.0 源码包](https://github.com/CryssyVyn/WorldBox-LOTM-Expansion/releases/download/v1.0.0/WorldBox-LOTM-Expansion-source-1.0.0.zip)　｜　[原模组资源](https://github.com/Worldbox-OWL/mod-resources)
+
+
 > **必需前置：** WorldBox 0.51.x、NML 1.2.0.1，以及伊度氢制作的《诡秘之主—宿命之环》4.1。本项目是**独立附属扩展**，需要与原模组同时安装，不覆盖原模组源码或磁盘上的 DLL。
+
+## 画作展示
+
+<!-- README_GALLERY_STAGED_START
+下列画廊代码已按用户确认顺序准备：前纪遗民置顶，接着八组人物版／游戏版配对，最后十四张人物版。
+由于仓库中的 docs/images/gallery/ 图片尚未上传，这部分先保存在注释中，避免 GitHub 显示破图。
+图片上传至上述相对目录后，删除注释包装即可正常显示。
+
+### 前纪遗民
+<p align="center"><a href="docs/images/gallery/00-ancient-survivor.png"><img src="docs/images/gallery/00-ancient-survivor.webp" alt="前纪遗民" width="260"></a></p>
+### 亵渎之牌 · 罗塞尔的二十二种神之姿态
+<table align="center"><tr>
+<td align="center"><a href="docs/images/gallery/01-fool-roselle.png"><img src="docs/images/gallery/01-fool-roselle.webp" alt="愚者·罗塞尔版" width="155"></a><br><sub>愚者·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/01-fool-symbol.png"><img src="docs/images/gallery/01-fool-symbol.webp" alt="愚者·游戏版" width="155"></a><br><sub>愚者·游戏版</sub></td>
+<td align="center"><a href="docs/images/gallery/02-demoness-roselle.png"><img src="docs/images/gallery/02-demoness-roselle.webp" alt="魔女·罗塞尔版" width="155"></a><br><sub>魔女·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/02-demoness-symbol.png"><img src="docs/images/gallery/02-demoness-symbol.webp" alt="魔女·游戏版" width="155"></a><br><sub>魔女·游戏版</sub></td>
+</tr></table>
+<table align="center"><tr>
+<td align="center"><a href="docs/images/gallery/03-darkness-roselle.png"><img src="docs/images/gallery/03-darkness-roselle.webp" alt="黑夜·罗塞尔版" width="155"></a><br><sub>黑夜·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/03-darkness-symbol.png"><img src="docs/images/gallery/03-darkness-symbol.webp" alt="黑夜·游戏版" width="155"></a><br><sub>黑夜·游戏版</sub></td>
+<td align="center"><a href="docs/images/gallery/04-visionary-roselle.png"><img src="docs/images/gallery/04-visionary-roselle.webp" alt="空想家·罗塞尔版" width="155"></a><br><sub>空想家·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/04-visionary-symbol.png"><img src="docs/images/gallery/04-visionary-symbol.webp" alt="空想家·游戏版" width="155"></a><br><sub>空想家·游戏版</sub></td>
+</tr></table>
+<table align="center"><tr>
+<td align="center"><a href="docs/images/gallery/05-black-emperor-roselle.png"><img src="docs/images/gallery/05-black-emperor-roselle.webp" alt="黑皇帝·罗塞尔版" width="155"></a><br><sub>黑皇帝·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/05-black-emperor-symbol.png"><img src="docs/images/gallery/05-black-emperor-symbol.webp" alt="黑皇帝·游戏版" width="155"></a><br><sub>黑皇帝·游戏版</sub></td>
+<td align="center"><a href="docs/images/gallery/06-death-roselle.png"><img src="docs/images/gallery/06-death-roselle.webp" alt="死神·罗塞尔版" width="155"></a><br><sub>死神·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/06-death-symbol.png"><img src="docs/images/gallery/06-death-symbol.webp" alt="死神·游戏版" width="155"></a><br><sub>死神·游戏版</sub></td>
+</tr></table>
+<table align="center"><tr>
+<td align="center"><a href="docs/images/gallery/07-mother-roselle.png"><img src="docs/images/gallery/07-mother-roselle.webp" alt="母亲·罗塞尔版" width="155"></a><br><sub>母亲·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/07-mother-symbol.png"><img src="docs/images/gallery/07-mother-symbol.webp" alt="母亲·游戏版" width="155"></a><br><sub>母亲·游戏版</sub></td>
+<td align="center"><a href="docs/images/gallery/08-moon-roselle.png"><img src="docs/images/gallery/08-moon-roselle.webp" alt="月亮·罗塞尔版" width="155"></a><br><sub>月亮·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/08-moon-symbol.png"><img src="docs/images/gallery/08-moon-symbol.webp" alt="月亮·游戏版" width="155"></a><br><sub>月亮·游戏版</sub></td>
+</tr></table>
+#### 其余十四条途径 · 人物版
+<table align="center"><tr>
+<td align="center"><a href="docs/images/gallery/09-white-tower-roselle.png"><img src="docs/images/gallery/09-white-tower-roselle.webp" alt="白塔·罗塞尔版" width="155"></a><br><sub>白塔·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/10-tyrant-roselle.png"><img src="docs/images/gallery/10-tyrant-roselle.webp" alt="暴君·罗塞尔版" width="155"></a><br><sub>暴君·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/11-chained-roselle.png"><img src="docs/images/gallery/11-chained-roselle.webp" alt="被缚者·罗塞尔版" width="155"></a><br><sub>被缚者·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/12-error-roselle.png"><img src="docs/images/gallery/12-error-roselle.webp" alt="错误·罗塞尔版" width="155"></a><br><sub>错误·罗塞尔版</sub></td>
+</tr></table>
+<table align="center"><tr>
+<td align="center"><a href="docs/images/gallery/13-hanged-man-roselle.png"><img src="docs/images/gallery/13-hanged-man-roselle.webp" alt="倒吊人·罗塞尔版" width="155"></a><br><sub>倒吊人·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/14-red-priest-roselle.png"><img src="docs/images/gallery/14-red-priest-roselle.webp" alt="红祭司·罗塞尔版" width="155"></a><br><sub>红祭司·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/15-twilight-giant-roselle.png"><img src="docs/images/gallery/15-twilight-giant-roselle.webp" alt="黄昏巨人·罗塞尔版" width="155"></a><br><sub>黄昏巨人·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/16-door-roselle.png"><img src="docs/images/gallery/16-door-roselle.webp" alt="门·罗塞尔版" width="155"></a><br><sub>门·罗塞尔版</sub></td>
+</tr></table>
+<table align="center"><tr>
+<td align="center"><a href="docs/images/gallery/17-wheel-of-fortune-roselle.png"><img src="docs/images/gallery/17-wheel-of-fortune-roselle.webp" alt="命运之轮·罗塞尔版" width="155"></a><br><sub>命运之轮·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/18-abyss-roselle.png"><img src="docs/images/gallery/18-abyss-roselle.webp" alt="深渊·罗塞尔版" width="155"></a><br><sub>深渊·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/19-justiciar-roselle.png"><img src="docs/images/gallery/19-justiciar-roselle.webp" alt="审判者·罗塞尔版" width="155"></a><br><sub>审判者·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/20-sun-roselle.png"><img src="docs/images/gallery/20-sun-roselle.webp" alt="太阳·罗塞尔版" width="155"></a><br><sub>太阳·罗塞尔版</sub></td>
+</tr></table>
+<table align="center"><tr>
+<td align="center"><a href="docs/images/gallery/21-paragon-roselle.png"><img src="docs/images/gallery/21-paragon-roselle.webp" alt="完美者·罗塞尔版" width="155"></a><br><sub>完美者·罗塞尔版</sub></td>
+<td align="center"><a href="docs/images/gallery/22-hermit-roselle.png"><img src="docs/images/gallery/22-hermit-roselle.webp" alt="隐者·罗塞尔版" width="155"></a><br><sub>隐者·罗塞尔版</sub></td>
+</tr></table>
+README_GALLERY_STAGED_END -->
 
 本项目是为 WorldBox《诡秘之主—宿命之环》4.1 制作的独立附属扩展。
 
@@ -18,11 +80,11 @@
 
 这些改动并不是为了改变原模组的整体方向，而是希望让一个不断演化的非凡世界，拥有更多值得观察和探索的可能。
 
-> **版本定位：** v1.0.0 正式版文档。  
+> **当前版本：** v1.0.0 正式版。  
 > **项目作者：** CryssyVyn  
 > **原模组作者：** 伊度氢
 
-**快速导航：** [主要拓展内容](#主要拓展内容) · [王国命名](#2-王国命名让每一个国家都拥有自己的历史) · [罗塞尔人物版画作](#罗塞尔人物版原画展示) · [安装说明](#安装说明) · [兼容性与存档](#兼容性与存档)
+**快速导航：** [画作展示](#画作展示) · [主要拓展内容](#主要拓展内容) · [王国命名](#2-王国命名让每一个国家都拥有自己的历史) · [安装说明](#安装说明) · [兼容性与存档](#兼容性与存档) · [图像使用声明](#纸牌图像使用声明)
 
 ---
 
@@ -72,16 +134,7 @@
 
 这并不是取消罗塞尔的人物版设计，而是让**原画展示**与**游戏内识别度**各得其所。
 
-#### 罗塞尔人物版原画展示
 
-*二十二条道路，二十二种不同的神之姿态。罗塞尔将秘密藏进牌面，而我们尝试为这些秘密绘制可以被看见的形象。*
-
-这里预留了**罗塞尔人物版亵渎之牌画廊**。原画来自作者的本地素材集；图片文件同步上传至仓库后，将在这一位置展示完整画作。图片与实际游戏内采用的符号版图标是两套不同用途的设计。
-
-<!-- ROSSELLE_GALLERY_START
-将本地 F:\Game\worldbox\card-development\pictures 中实际属于罗塞尔人物版的全部图片上传至 docs/images/roselle/，再在此插入真实文件名对应的 Markdown 图片链接。
-不要引用 Windows 绝对路径，也不要在文件上传前添加会破图的 img 标签。
-ROSSELLE_GALLERY_END -->
 
 ### 2. 王国命名——让每一个国家都拥有自己的历史
 
@@ -403,13 +456,13 @@ WorldBox 可以让我们观察文明兴衰，但随机生成的国家名称未�
 | 必需前置 | 《诡秘之主—宿命之环》官方 4.1 |
 | 原模组 GUID | `XULIE` |
 | 拓展 GUID | `WORLDBOX_LOTM_EXPANSION` |
-| README 对应版本 | `v1.0.0` 正式版说明（安装包待发布） |
+| 拓展版本 | `v1.0.0` 正式版 |
 
 **安装步骤**
 
-1. 退出游戏，并备份准备测试的世界存档。
+1. 退出游戏，建议先备份需要保留的世界存档。
 2. 安装原作者发布的完整《诡秘之主—宿命之环》4.1。
-3. 从页面顶部的 [Releases](https://github.com/CryssyVyn/WorldBox-LOTM-Expansion/releases) 下载适配的 **v1.0.0 安装包**（正式版 ZIP 上传后），解压并将 `WorldBox-LOTM-Expansion` 文件夹放入 NML 的 `Mods` 目录。**源码压缩包不用于直接安装。**
+3. 从页面顶部下载 [**v1.0.0 正式版安装包**](https://github.com/CryssyVyn/WorldBox-LOTM-Expansion/releases/download/v1.0.0/WorldBox-LOTM-Expansion-1.0.0.zip)，解压并将 `WorldBox-LOTM-Expansion` 文件夹放入 NML 的 `Mods` 目录。**源码压缩包不用于直接安装。**
 4. 确认扩展文件夹内能够直接找到 `mod.json` 和 `WORLDBOX_LOTM_EXPANSION.dll`。
 5. 保留原模组作为前置，重新启动游戏。
 
@@ -435,11 +488,7 @@ WorldBox 可以让我们观察文明兴衰，但随机生成的国家名称未�
 
 本扩展以官方《诡秘之主—宿命之环》4.1 为前置，通过 NML 加载，并使用 Harmony 在运行时接入新增功能和修订，**不覆盖原模组源码或磁盘上的 DLL**。
 
-源代码与构建资料包括独立入口与运行时逻辑、功能补丁及阅读参考实现；国名规则、历史登记、图标与语言资源也分别整理。构建、兼容与架构资料将随正式版代码一同上传仓库；**相关文件未上传前，此处不放置无效的文档链接**。
-
-## 版本说明
-
-本 README 记录的是 **v1.0.0 正式版功能集**。GitHub Releases 是唯一在本页列出的正式下载入口；请以实际发布资产的版本号为准，不要用旧版 `0.1.0-dev / loadfix6` 安装包代替新版。
+v1.0.0 的源码压缩包已随正式版发布：[下载源码包](https://github.com/CryssyVyn/WorldBox-LOTM-Expansion/releases/download/v1.0.0/WorldBox-LOTM-Expansion-source-1.0.0.zip)。其中包含独立入口、运行时逻辑、功能补丁及相关资源。项目实现与构建细节以源码包内容为准。
 
 ## 原模组与致谢
 
@@ -458,6 +507,17 @@ WorldBox 可以让我们观察文明兴衰，但随机生成的国家名称未�
 ## 许可说明
 
 本拓展当前保留所有权利，仓库尚未提供独立的开源许可证。原模组及其他第三方作品、图像和素材的相关权利属于各自权利人；具体素材来源与署名信息将在对应文件公开后补充。
+
+### 纸牌图像使用声明
+
+本项目发布的纸牌图像由 CryssyVyn 制作。对制作者依法享有权利的部分，适用以下条款：
+
+- 允许个人非商业欣赏、下载收藏及在游戏中使用。
+- 公开转载、修改、二次创作或再发布前，须联系 CryssyVyn 并取得明确许可；获得许可后须注明制作者及原发布地址。
+- 未经另行明确授权，不得用于商业用途，不得冒充原创或移除署名。
+- 《诡秘之主》及相关作品的名称、角色与设定等权利归相应权利人所有，本声明不对这些内容作出授权。
+
+本声明仅适用于上述纸牌图像；项目代码及其他素材沿用各自的许可声明。
 
 ---
 
