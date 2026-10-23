@@ -32,7 +32,7 @@
 ## 亵渎纸牌美术展示
 
 ### 前纪遗民
-<p align="center"><a href="WorldBox-LOTM-Expansion-README-images/docs/images/gallery/00-ancient-survivor.png"><img src="WorldBox-LOTM-Expansion-README-images/docs/images/gallery/00-ancient-survivor.webp" alt="前纪遗民" width="155" height="155"></a></p>
+<p align="center"><a href="WorldBox-LOTM-Expansion-README-images/docs/images/gallery/00-ancient-survivor.png"><img src="WorldBox-LOTM-Expansion-README-images/docs/images/gallery/00-ancient-survivor.webp" alt="前纪遗民" width="260"></a></p>
 ### 亵渎之牌 · 罗塞尔的二十二种神之姿态
 <table align="center"><tr>
 <td align="center"><a href="WorldBox-LOTM-Expansion-README-images/docs/images/gallery/01-fool-roselle.png"><img src="WorldBox-LOTM-Expansion-README-images/docs/images/gallery/01-fool-roselle.webp" alt="愚者·罗塞尔版" width="155" height="155"></a><br><sub>愚者·罗塞尔版</sub></td>
